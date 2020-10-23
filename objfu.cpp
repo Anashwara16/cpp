@@ -6,5 +6,5 @@ class Student {
         string name;
         string major;
         double gpa;
-    
+            
 }
